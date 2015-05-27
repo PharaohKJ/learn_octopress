@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://pharaohkj.github.io/learn_octopress/blog/2015/05/28/first-post/</loc>
+    <lastmod>2015-05-28T08:29:10+09:00</lastmod>
+  </url>
+  <url>
+    <loc>http://pharaohkj.github.io/learn_octopress/blog/archives/</loc>
+  </url>
+  <url>
+    <loc>http://pharaohkj.github.io/learn_octopress/</loc>
+  </url>
+  <url>
+    <loc>http://pharaohkj.github.io/learn_octopress/blog/categories/category1/</loc>
+  </url>
+  <url>
+    <loc>http://pharaohkj.github.io/learn_octopress/blog/categories/category2/</loc>
+  </url>
+</urlset>

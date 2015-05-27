@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://pharaohkj.github.io/learn_octopress/sitemap.xml 
