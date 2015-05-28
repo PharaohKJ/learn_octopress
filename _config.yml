@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://octopress.phalanxware.com
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
 author: Your Name
@@ -29,7 +29,7 @@ email:
 root: /
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -70,7 +70,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: pharaohkj
 twitter_tweet_button: true
 
 # Google +1

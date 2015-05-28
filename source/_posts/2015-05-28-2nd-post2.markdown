@@ -1,0 +1,9 @@
+---
+layout: post
+title: "手動 3rd post"
+date: 2015-05-28 10:32:02 +0900
+comments: true
+categories: category1
+---
+
+コピペで作った3rdポストだよ？
