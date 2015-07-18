@@ -410,7 +410,13 @@ s3_bucket = 'octopress.phalanxware.com'
 s3_delete = true
 
 desc "Deploy website via awscli"
-task :s3 do
+task :s3old do
   puts "## Deploying website via awscli"
   ok_failed system("aws s3 sync --profile octopress --acl public-read #{"--delete" unless s3_delete == false} public s3://#{s3_bucket}/")
+end
+
+desc "Deploy website via s3cmd with CloudFront cache invalidation"
+task s3: [] do
+  puts "## Deploying website via s3cmd"
+  ok_failed system("s3cmd sync --cf-invalidate-default-index --acl-public --reduced-redundancy --cf-invalidate public/* s3://#{s3_bucket}/")
 end
