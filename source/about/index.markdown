@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "about"
-date: 2015-07-17 11:26
+date: 2015-07-20 02:44
 comments: true
 sharing: true
 footer: true
@@ -9,7 +9,10 @@ footer: true
 
 私は Handle Name ふぁらお加藤 で生活、及びお仕事をいただいている。
 
-お仕事は現在、Freelancer として活動しており、屋号は PhalanXware である。
+仕事は現在、Freelancer として活動しており、屋号は PhalanXware である。
+
+活動内容などについては、[Linked In](https://jp.linkedin.com/in/pharaohkj)に拙いながらも
+公開している。
 
 このページは octopress で運用されており、主に emacs たまに vim で書かれている。
 
