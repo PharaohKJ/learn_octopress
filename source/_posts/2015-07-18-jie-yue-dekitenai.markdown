@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "節約できてない"
-date: 2015-07-28 11:24:23 +0900
+date: 2015-07-18 11:24:23 +0900
 comments: true
 categories: さくらVPS, AWS
 ---
