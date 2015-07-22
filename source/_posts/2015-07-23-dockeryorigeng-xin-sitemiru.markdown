@@ -7,3 +7,5 @@ categories:
 ---
 
 GitHubにPush→Jenkinsでdetect→deploy用をrunの予定。
+
+連携テスト。GitHub上で書いてみる。
