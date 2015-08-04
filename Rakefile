@@ -420,3 +420,10 @@ task s3: [] do
   puts "## Deploying website via s3cmd"
   ok_failed system("s3cmd sync --no-mime-magic --cf-invalidate-default-index --acl-public --reduced-redundancy --cf-invalidate public/* s3://#{s3_bucket}/")
 end
+
+desc "commit this"
+task togithub: [] do
+  sh 'git add ./source/_posts/*'
+  sh "git commit -m 'wrote blog.'"
+  sh 'git push'
+end

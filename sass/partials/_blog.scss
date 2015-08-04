@@ -94,6 +94,7 @@ article + article {
   article h1 {
     font-size: 2.2em;
     a { color: inherit; &:hover { color: $link-color-hover; } }
+    border-bottom: 1px solid #e24e43;
   }
   a[rel=full-article] {
     background: darken($main-bg, 5);
