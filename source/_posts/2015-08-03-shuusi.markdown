@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2015-7の収支"
+title: "2015-7は-80円"
 date: 2015-08-04 18:00:00 +0900
 comments: true
 categories: Qiita C#
@@ -19,3 +19,5 @@ Google Adsense      | +\0-   |       0  |
 AWS Route53(DNS)    | -$0.51 | \63.75   |
 AWS S3(Storage)     | -$0.05 |  \6.25   |
 AWS CloudFront(cdn) | -$0.08 | \10.00   |
+
+合計 **-\80** となった。
