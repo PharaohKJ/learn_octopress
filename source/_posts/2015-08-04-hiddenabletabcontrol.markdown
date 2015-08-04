@@ -10,6 +10,8 @@ categories: Qiita C#
 
 そのときにちょろっと公開しておいたほうが楽そうなものがあったので公開。
 
+[HiddenableTabControl](https://github.com/PharaohKJ/HiddenableTabControl)
+
 まずGitHub上でREADME.mdを書いて、Qiitaで説明文を書いて、そしてまたここで何かを書く
 て本当に無駄な感じがするので今後はやはりURLを紹介するだけに止めよう。
 
