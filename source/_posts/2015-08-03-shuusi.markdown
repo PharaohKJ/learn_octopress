@@ -3,7 +3,7 @@ layout: post
 title: "2015-7は-80円"
 date: 2015-08-04 18:00:00 +0900
 comments: true
-categories: Qiita C#
+categories: 収支
 ---
 
 2015年7月の収支を計算した。
