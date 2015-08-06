@@ -3,7 +3,7 @@ layout: post
 title: "hiddenableTabControl"
 date: 2015-08-04 09:11:58 +0900
 comments: true
-categories: 収支
+categories: Qiita C#
 ---
 
 実に10年ぶりぐらいにC#でFormアプリケーションなんぞを作っています。
