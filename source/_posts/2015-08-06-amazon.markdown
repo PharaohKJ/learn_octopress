@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Amazon"
+date: 2015-08-06 20:02:45 +0900
+comments: true
+categories: 
+---
+
+Amazonアフィリ組み込みテストポスト。
+
+{% amazon large_image 4873113946 %}
+
