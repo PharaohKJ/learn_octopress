@@ -18,7 +18,7 @@ safariのURLをコピーすると、URLエンコードされておらず
 
 http://blog.koshigoe.jp/archives/2006/02/emacs_html_1.html
 
-を導入した。このあたりからemacs list hack できるようになっていきたいものである。
+を導入した。このあたりからemacs lisp hack できるようになっていきたいものである。
 最近、init.elでerrorを吐くことがあって、`(setq debug-on-error t)` を仕掛けたら、
 止まりまくりと気づいたのでなんとかしたいなぁーと思っていたので、このあたりの
 シンプルなものから手をつけていきたい。
