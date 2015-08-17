@@ -121,6 +121,10 @@ body.sidebar-footer {
   .toggle-sidebar { display: none; }
 }
 
+@media only screen and (max-width: 320px) {
+  body > header { font-size: $header-font-size * 0.5; }
+}
+
 @media only screen and (min-width: 550px) {
   body > header { font-size: $header-font-size; }
 }
@@ -189,4 +193,3 @@ body.sidebar-footer {
     ul, ol { margin-left: 0; }
   }
 }
-
