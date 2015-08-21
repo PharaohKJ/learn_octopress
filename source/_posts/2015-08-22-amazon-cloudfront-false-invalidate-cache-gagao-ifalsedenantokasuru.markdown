@@ -37,6 +37,7 @@ cdnのcacheをinvalidateし、更新するのにかかる料金が
 
 ```Dockerfile
 RUN pip install awscli
+RUN aws configure set preview.cloudfront true
 CMD export PATH=/s3cmd-1.5.2:$PATH && cd /octopress.phalanxware.com && git pull && cd /octopress.phalanxware.com && rake gen_deploy && aws --profile octopress cloudfront create-invalidation --distribution-id $DIST_ID  --invalidation-batch '{"Paths": { "Quantity": 1, "Items": ["/*"] }, "CallerReference": "string" }'
 ```
 
