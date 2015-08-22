@@ -39,7 +39,7 @@ cdnのcacheをinvalidateし、更新するのにかかる料金が
 RUN pip install awscli
 RUN aws configure set preview.cloudfront true
 COPY _amazon.json /octopress.phalanxware.com/_amazon.json
-CMD export PATH=/s3cmd-1.5.2:$PATH && export CRF=`date +"%Y%m%d%H%M%S"` && cd /octopress.phalanxware.com && git pull && cd /octopress.phalanxware.com && sed -i "s/__CRF__/$CRF/g" _amazon.json && rake gen_deploy && aws --profile octopress cloudfront create-invalidation --distribution-id $DIST_ID  --invalidation-batch `cat _amazon.json`
+CMD export PATH=/s3cmd-1.5.2:$PATH && export CRF=`date +"%Y%m%d%H%M%S"` && cd /octopress.phalanxware.com && git pull && cd /octopress.phalanxware.com && sed -i "s/__CRF__/$CRF/g" _amazon.json && rake gen_deploy && aws --profile octopress cloudfront create-invalidation --cli-input-json file://_amazon.json
 ```
 
 とりあえずこの記事をpostしてテストしてみようと思う。
@@ -50,4 +50,5 @@ CMD export PATH=/s3cmd-1.5.2:$PATH && export CRF=`date +"%Y%m%d%H%M%S"` && cd /o
 以下のページを参考にした。
 
 [Amazon EC2 と Route 53 のはじめかた その 3 : Amazon Route 53 を試す - WebOS Goodies](http://webos-goodies.jp/archives/getting_started_with_amazon_ec2_and_route_53_volume_3_route_53.html)
+[AWS CLIのパラメータをJSONファイルで記述する ｜ Developers.IO](http://dev.classmethod.jp/cloud/aws-cli-params-from-json/)
 
