@@ -28,7 +28,7 @@ cdnのcacheをinvalidateし、更新するのにかかる料金が
 
 まず octopressの`s3cmd`を使っている部分を変更し、まったくinvalidateしないように。
 
-```Rakefile
+```
   # ok_failed system("s3cmd sync --no-mime-magic --cf-invalidate-default-index --acl-public --reduced-redundancy --cf-invalidate public/* s3://#{s3_bucket}/")
   ok_failed system("s3cmd sync --no-mime-magic --acl-public --reduced-redundancy public/* s3://#{s3_bucket}/")
 ```
