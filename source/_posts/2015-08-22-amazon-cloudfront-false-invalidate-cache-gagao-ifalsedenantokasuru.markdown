@@ -42,3 +42,11 @@ CMD export PATH=/s3cmd-1.5.2:$PATH && cd /octopress.phalanxware.com && git pull 
 ```
 
 とりあえずこの記事をpostしてテストしてみようと思う。
+
+追記
+----
+`"CallerReference": "string"` ってのの理解が適当で悪かった。毎回違うものを発行しなければいけないらしい。（2重API呼び出し防止）
+以下のページを参考にした。
+
+[Amazon EC2 と Route 53 のはじめかた その 3 : Amazon Route 53 を試す - WebOS Goodies](http://webos-goodies.jp/archives/getting_started_with_amazon_ec2_and_route_53_volume_3_route_53.html)
+
