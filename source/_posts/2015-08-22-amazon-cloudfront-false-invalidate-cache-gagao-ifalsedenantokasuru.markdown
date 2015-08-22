@@ -28,7 +28,7 @@ cdnのcacheをinvalidateし、更新するのにかかる料金が
 
 まず octopressの`s3cmd`を使っている部分を変更し、まったくinvalidateしないように。
 
-```Rakfile
+```Rakefile
   # ok_failed system("s3cmd sync --no-mime-magic --cf-invalidate-default-index --acl-public --reduced-redundancy --cf-invalidate public/* s3://#{s3_bucket}/")
   ok_failed system("s3cmd sync --no-mime-magic --acl-public --reduced-redundancy public/* s3://#{s3_bucket}/")
 ```
@@ -38,7 +38,8 @@ cdnのcacheをinvalidateし、更新するのにかかる料金が
 ```Dockerfile
 RUN pip install awscli
 RUN aws configure set preview.cloudfront true
-CMD export PATH=/s3cmd-1.5.2:$PATH && cd /octopress.phalanxware.com && git pull && cd /octopress.phalanxware.com && rake gen_deploy && aws --profile octopress cloudfront create-invalidation --distribution-id $DIST_ID  --invalidation-batch '{"Paths": { "Quantity": 1, "Items": ["/*"] }, "CallerReference": "string" }'
+COPY _amazon.json /octopress.phalanxware.com/_amazon.json
+CMD export PATH=/s3cmd-1.5.2:$PATH && export CRF=`date +"%Y%m%d%H%M%S"` && cd /octopress.phalanxware.com && git pull && cd /octopress.phalanxware.com && sed -i "s/__CRF__/$CRF/g" _amazon.json && rake gen_deploy && aws --profile octopress cloudfront create-invalidation --distribution-id $DIST_ID  --invalidation-batch `cat _amazon.json`
 ```
 
 とりあえずこの記事をpostしてテストしてみようと思う。
