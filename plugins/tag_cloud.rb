@@ -101,7 +101,7 @@ module Jekyll
       category_dir = config['category_dir']
       categories = context.registers[:site].categories
       categories.keys.sort_by{ |str| str.downcase }.each do |category|
-        html << "<li><a href='/#{category_dir}/#{category.to_url}/'>#{category}"
+        html << "<li><a href='/#{category_dir}/#{Zipang.to_slug(category).to_url}/'>#{category}"
         if @opts['counter']
           html << " (#{categories[category].count})"
         end
