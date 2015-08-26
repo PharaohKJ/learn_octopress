@@ -3,7 +3,7 @@ layout: post
 title: "節約できてない"
 date: 2015-07-28 11:24:23 +0900
 comments: true
-categories: さくらVPS, AWS
+categories: さくらVPS AWS
 ---
 
 1日、アクセスログの容量だけ持てばいいapache(m3.medium) + RDSじゃないEC2のDBで結構な容量(m3.medium)
