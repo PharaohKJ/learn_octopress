@@ -101,6 +101,9 @@ google_analytics_tracking_id: UA-1856200-9
 # Facebook Like
 facebook_like: true
 
+# hatena Share
+hatena_share_button: true
+
 gems:
   - octopress-social
 twitter:
