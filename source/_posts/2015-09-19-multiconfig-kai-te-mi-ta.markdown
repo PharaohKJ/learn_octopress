@@ -11,3 +11,5 @@ categories: Qiita Ruby
 GitHubのREADME.mdを書いて、アレンジしてQiitaに書いて、さらにアレンジしてここに書くのは相当なアホらしさのでこんなところで。
 
 `module EachConfig`が、最初は `class EachConfig < Hash` と作ってしまい、`EnvConfig`の実装にいたって「やってみるとclassがHashではない可能性大いにあるよなあ」となり、`class EachConfig` と `Hash` を多重継承したくなったが、これこそ `module` の出番であるとしてああなった。
+
+次はもうちょっと時間をかけずに作りたい・・・。
