@@ -1,3 +1,4 @@
+# coding: utf-8
 require 'amazon/ecs'
 require 'i18n'
 
@@ -53,9 +54,7 @@ module Jekyll
 
       recnt = 0
       begin
-        # res = Amazon::Ecs.item_lookup(asin)
         res = Amazon::Ecs.item_search(asin, search_index: 'All')
-        # res = Amazon::Ecs.item_lookup(asin, search_index: 'All')
 
       #Liquid Exception HTTP Response: 503 Service Unavailable
       rescue Amazon::RequestError => e
@@ -114,7 +113,8 @@ module Jekyll
       item = AmazonResultCache.instance.item_lookup(asin)
 
       if item.nil?
-        raise "item data empty asin %s" % [asin]
+        return "asin : #{asin} is not found."
+        # raise "item data empty asin %s" % [asin]
       end
 
       self.send(type, item)
