@@ -3,7 +3,7 @@ layout: post
 title: "今年最後の『Code for Kanazawa Civic Hack Night』に参加してプレゼンした"
 date: 2015-12-11 20:42:02 +0900
 comments: true
-categories: 
+categories: civichack
 ---
 
 今年最後の CfK 主催、Civic Hack Night に参加した。
@@ -24,4 +24,4 @@ categories:
 
 人を動かしたり、変えたりはできず、自分を動かしたり、変えたりはできる、、、ようなできないような。結局できないと思うけれど。だからこそ、自分ができることを粛々とやっていこうかと。（こんなこといってるから儲からないんだろうなあ）
 
-<iframe src="http://www.slideshare.net/pharaohkj/slideshelf" width="615px" height="470px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/478qGfgxNucFwy" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pharaohkj/diy-56050098" title="俺とシビックテックとDiy" target="_blank">俺とシビックテックとDiy</a> </strong> from <strong><a href="//www.slideshare.net/pharaohkj" target="_blank">Masayuki KaToH</a></strong> </div>
