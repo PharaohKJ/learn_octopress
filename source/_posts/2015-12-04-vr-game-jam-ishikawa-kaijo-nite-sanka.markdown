@@ -3,7 +3,7 @@ layout: post
 title: "VR Game Jam 石川会場にて参加"
 date: 2015-12-04 00:45:19 +0900
 comments: true
-categories: VR, GameJam, Hackathon
+categories: [VR, GameJam, Hackathon]
 ---
 
 [第4回 Oculus Game Jam in Japan 石川会場 - 金沢ゲーム制作者コミュニティ | Doorkeeper](https://kzgame.doorkeeper.jp/events/33759) に参加した。
