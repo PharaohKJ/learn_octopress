@@ -2,6 +2,7 @@ require "rubygems"
 require "bundler/setup"
 require "stringex"
 require "zipang"
+require 'yaml'
 
 def zipang_url(v)
   Zipang.to_slug(v).to_url
@@ -430,8 +431,31 @@ task s3: [] do
 end
 
 desc "commit this"
-task togithub: [] do
+task publish: [] do
   sh 'git add ./source/_posts/*'
   sh "git commit -m 'wrote blog.'"
-  sh 'git push'
+  sh 'git push origin master'
+end
+
+desc 'show hidden lists'
+task show_hidden: []  do
+  mds = Dir.glob('source/_posts/*.markdown')
+  hiddens = mds.select do |md|
+    data = YAML.load_file(md)
+    next data['published'].to_s == 'false'
+  end
+  puts hiddens
+end
+
+desc 'show categories list'
+task show_category: [] do
+  mds = Dir.glob('source/_posts/*.markdown')
+  categories = []
+  mds.each do |md|
+    data = YAML.load_file(md)['categories']
+
+    categories += data if data.is_a?(Array)
+    categories += data.split(' ') if data.is_a?(String)
+  end
+  puts categories.uniq.sort.join("\n")
 end
