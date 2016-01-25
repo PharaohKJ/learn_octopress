@@ -8,7 +8,7 @@ categories:
 
 不二貿易 81818 DP8085BR を楽天のA-PRICEさんで2つ買いました。1万円以上購入で送料無料ということで、￥5,100 x 2 で送料無料。
 
-{% amazon medium_image 'B002JBXCLW' %}
+{% amazon medium_image B002JBXCLW %}
 
 作るのは結構大変で、大人2人はいたほうがよい。私は、ラーメンとステーキで @zatub と @torumu21 を釣り上げて助けてもらい3人で作成した。ありがとう。
 
