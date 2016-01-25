@@ -6,7 +6,7 @@ comments: true
 categories: kanazawa.rb
 ---
 
-去ることながら 2016-01-16 に kanazawa.rb meetup #41 に参加しました。
+だいぶ先日のことですが 2016-01-16 に [kanazawa.rb meetup #41](http://kzrb.org/meetup/41/) に参加しました。
 
 もくもく会だったので、もくもくプレゼンを作っていました。
 
