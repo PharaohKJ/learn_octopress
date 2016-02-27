@@ -112,3 +112,7 @@ twitter:
 # Instagram plugin
 instagram_cache: false
 instagram_cache_dir: '.instagram-cache'
+
+# facebook_app_id: app_id ←手順1で取得したapp_id
+facebook_locale: ja_JP
+default_ogp_image: /images/pharaoh.png
