@@ -18,6 +18,7 @@ group :development do
   gem 'amazon-ecs'
   gem 'i18n'
   gem 'zipang'
+  # gem 'kakasi'
 end
 
 gem 'sinatra', '~> 1.4.2'

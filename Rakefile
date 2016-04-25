@@ -5,6 +5,7 @@ require "zipang"
 require 'yaml'
 
 def zipang_url(v)
+  # `echo #{v}| kakasi -ja -Ha -Ka -Ea -Ja  -i utf-8 -o utf-8`.strip.to_s.to_url
   Zipang.to_slug(v).to_url
 end
 
