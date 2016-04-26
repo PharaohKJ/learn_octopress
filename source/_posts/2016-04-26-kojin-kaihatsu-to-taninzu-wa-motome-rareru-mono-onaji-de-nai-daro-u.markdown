@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "「手段」「ツール」の使い方がエンジニアか？"
+title: "「手段」「ツール」の使い方がエンジニアリングか？"
 date: 2016-04-26 08:03:18 +0900
 comments: true
 published: true
