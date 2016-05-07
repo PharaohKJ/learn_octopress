@@ -3,7 +3,7 @@ layout: post
 title: "『「ポツダム宣言」を読んだことがありますか？』購入"
 date: 2015-10-30 19:35:32 +0900
 comments: true
-categories: book
+categories: 読了
 ---
 
 映画「日本のいちばん長い日」で、みたシーンで、印象に残っているシーンがある。

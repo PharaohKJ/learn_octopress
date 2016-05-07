@@ -3,7 +3,7 @@ layout: post
 title: "『武神の階』読了"
 date: 2015-10-27 08:23:04 +0900
 comments: true
-categories: book
+categories: 読了
 ---
 
 {% amazon large_image 4048726684 %}
