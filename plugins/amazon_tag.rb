@@ -30,7 +30,7 @@ module Jekyll
       #cache_dir
       @cache = site.config['amazon_cache'] if site.config['amazon_cache']
       @cache_dir = site.config['amazon_cache_dir'].gsub(/\/$/, '') + '/' if site.config['amazon_cache_dir']
-      Dir::mkdir(@cache_dir) if File.exists?(@cache_dir) == false
+      Dir::mkdir(@cache_dir) if File.exist?(@cache_dir) == false
 
       #options
       @options[:associate_tag]     = site.config['amazon_associate_tag']
@@ -47,7 +47,7 @@ module Jekyll
     end
 
     def item_lookup(asin)
-      return @result_cache[asin] if @result_cache.has_key?(asin)
+      return @result_cache[asin] if @result_cache.key?(asin)
       return @result_cache[asin] = Marshal.load(File.read(@cache_dir + asin)) if @cache && File.exist?(@cache_dir + asin)
 
       Amazon::Ecs.options = @options
@@ -58,8 +58,9 @@ module Jekyll
 
       #Liquid Exception HTTP Response: 503 Service Unavailable
       rescue Amazon::RequestError => e
-        if /503/ =~ e.message && recnt < 3
-          sleep 3
+        puts e.message
+        if /503/ =~ e.message && recnt < 30
+          sleep recnt
           recnt += 1
           puts asin + ' retry ' + recnt.to_s
           retry
