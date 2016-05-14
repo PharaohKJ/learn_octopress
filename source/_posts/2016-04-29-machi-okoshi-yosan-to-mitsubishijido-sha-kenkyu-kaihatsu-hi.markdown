@@ -15,4 +15,6 @@ https://www.facebook.com/kenichirofukushima/posts/1037541952966571?pnref=story
 
 できるわけがないという金額を提示されたなかでどうするのか
 
+トヨタ1兆円の三菱の800億
+
 予算に比例して勝利するか？
