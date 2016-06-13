@@ -39,7 +39,6 @@ categories: JAWS-UG
 - パネル・ディスカッションはやっぱり40分程度では自己紹介で終わってしまいイマイチ
 - AWSを使って運用するサービスの保険がある！ [東京海上日動 AWSユーザー向け クラウドトータルアシスト | 海上商事株式会社](http://www.kaijoshoji.co.jp/cloudtotalassist_for_aws_user/) 参照
 - [Elastic in Japan](https://info.elastic.co/JapanLocalPage_page.html) さんがブースを出していて、勉強会とかやらない？と言っていたので、 kanazawa.rb なんかで声かけてみようかなと思っている
-- 
 
 こんなところかな。
 
