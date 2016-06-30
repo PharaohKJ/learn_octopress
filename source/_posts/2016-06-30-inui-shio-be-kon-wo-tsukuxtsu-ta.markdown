@@ -56,7 +56,7 @@ categories: 燻製
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">まぁこんなもんか、、、な感じになったのでペットシートにくるんで冷蔵庫入れた。明後日早朝から燻す予定。 <a href="https://t.co/gOJ1mQuflK">pic.twitter.com/gOJ1mQuflK</a></p>&mdash; ふぁらお加藤 (@PharaohKJ) <a href="https://twitter.com/PharaohKJ/status/746169418187579393">2016年6月24日</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-あ、使ったペットシートはこれ。たぶん「こまめ」はよくない。超吸収とかの無香料のやつがいいんじゃないかと思います。
+あ、使ったペットシートはこれ。たぶん「こまめ」はよくない。超吸収とかの無香料のやつがいいんじゃないかな。
 
 {% amazon large_image B00857J394 %}
 
@@ -74,14 +74,14 @@ categories: 燻製
 
 炭は [ハイブリッド備長炭ＢＢＱ炭：フカヤチャコールチャンネルズ株式会社](http://www.fukayacc.com/prod/prod05.html) を利用した。これはAmazonでは取り扱いが無いようだ。前使っていたこれはとても楽だったが評価低いようだ。なんで？ こういう小さくて着火剤不要の炭はとても便利だ。一気に炭を起こさなくても欲しいときに欲しいだけ熱源を用意できる。マジでオススメ。
 
-{% amazon large_image B000PIVIHQ}
+{% amazon large_image B000PIVIHQ %}
 
 
 ## 燻煙
 
 ウッドはSOTOのヒッコリー(オニグルミ)を1本まるまる使った。4.5時間コース。
 
-{% amazon large_image B01B36TQ86}
+{% amazon large_image B01B36TQ86 %}
 
 チップは燃えるとスモーカー内の温度変化が発生するし、補充せねばらぬなどなどで、とても難しいのでベーコンにはウッドが楽だ。もちろん熱燻にはチップだけど。
 
