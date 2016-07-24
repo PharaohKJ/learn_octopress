@@ -3,7 +3,7 @@ layout: post
 title: "コミュニケーション能力は「御老公の印籠」か？『UI Live ! in Kanazawa』に出席"
 date: 2016-07-24 17:26:22 +0900
 comments: true
-published: false
+published: true
 categories: 勉強会
 ---
 
