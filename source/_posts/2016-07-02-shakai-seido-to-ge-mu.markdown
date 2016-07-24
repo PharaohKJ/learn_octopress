@@ -4,7 +4,7 @@ title: "社会制度とゲーム、漫画、映画、現実"
 date: 2016-07-02 12:46:07 +0900
 comments: true
 published: true
-categories: life
+categories: life movie
 ---
 
 20年勤めた会社を辞めた弟が映画を見に行こうというので、平日にオフをとって、富山までいってあの名作「ウォークラフト」の劇場版を見てきた。
