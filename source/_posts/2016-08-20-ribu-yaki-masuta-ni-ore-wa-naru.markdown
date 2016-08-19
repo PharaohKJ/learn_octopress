@@ -32,6 +32,7 @@ categories: 燻製
 4. っていうか蒸すと時短になるの？よくわからん。
 
 参考ページ
+
 - [囲炉裏・火鉢・七輪のうんちく　－　炭火道:木炭の燃焼温度](http://7rinhonpo.jp/archives/50456000.html)
 - [様々な火の温度](http://katakago.sakura.ne.jp/chem/fire/ondo2.html)
 http://katakago.sakura.ne.jp/chem/fire/ondo2.html
