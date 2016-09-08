@@ -3,7 +3,7 @@ layout: post
 title: "偏頭痛"
 date: 2016-09-08 10:29:15 +0900
 comments: true
-published: false
+published: true
 categories: 偏頭痛
 ---
 
