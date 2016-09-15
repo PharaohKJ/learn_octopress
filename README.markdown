@@ -1,6 +1,6 @@
-# これは何か
+# これは何か - test
 
-Octopressで運用している私のblogです。
+Octopressで運用している私のblogです。 - v2
 
 ここにpushすると世界のどこからのjenkinsが走り、AmazonS3にアップロードされ、AmazonCloudFrontにデプロイされ、爆速でみながみられるようになっています。
 
