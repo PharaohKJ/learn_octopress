@@ -36,7 +36,7 @@ categories: life
 
 ここは前お世話になっていたオフィス弁当の「ジョイフル」さんと同じ系列らしい。分岐点がよくわからない(たぶん、宅配ルートであろう)が、オフィス弁当はNGで、一般向けの宅配弁当ということになった。
 
-ライスなし、450円で一発目がコレ。
+ライスなし、450円で一発目がコレ。うーん。素晴らしいやんけ。
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">毎日カレーメシも飽きてきたので宅配弁当に手を出し始める。 <a href="https://t.co/C98OG12AZx">pic.twitter.com/C98OG12AZx</a></p>&mdash; ふぁらお加藤 (@PharaohKJ) <a href="https://twitter.com/PharaohKJ/status/776625257188761601">2016年9月16日</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
