@@ -9,10 +9,10 @@ categories: life
 
 最近は完全に自宅に引きこもって仕事をし、朝・昼・夜と、Amazonで業務用キューピーのパスタソースと日清カレーメシを延々ループする日々を続けている。カレーメシは1個200円を切っていたら定期的に補充するようにし、ループに加えている。
 
-{% amazon image_small B006GJSPC4 %}
-{% amazon image_small B002QUYRR4 %}
-{% amazon image_small B002QUYRRE %}
-{% amazon image_small B00XN9PPOQ %}
+{% amazon small_small B006GJSPC4 %}
+{% amazon small_small B002QUYRR4 %}
+{% amazon small_small B002QUYRRE %}
+{% amazon small_small B00XN9PPOQ %}
 
 どれもとっても美味しい! ベーコンやソーセージを刻んで入れたり、みじん切りニンニクを足したり、黒胡椒をマシマシたりして食している。
 
