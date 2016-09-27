@@ -4,7 +4,7 @@ title: "専門家の仕事を裁けるのか"
 date: 2016-09-26 23:54:14 +0900
 comments: true
 published: true
-categories: 
+categories: WiLL
 ---
 
 えーもう最終週かよ。何件かけば1日1ブログ達成できるんだ?
