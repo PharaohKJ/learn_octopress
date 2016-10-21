@@ -14,7 +14,7 @@ module Jekyll
         :AWS_access_key_id => nil,
         :AWS_secret_key    => nil,
         :response_group    => 'Images,ItemAttributes,ItemIds',
-        :country           => 'en',
+        :country           => 'jp',
       }
     end
 
