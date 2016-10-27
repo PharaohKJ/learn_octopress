@@ -7,7 +7,7 @@ published: true
 categories: event
 ---
 
-僭越ながら、今年も KANAZAWA アプリ塾講師の任を受けます。そういうわけで 2016-10-27 に登壇し、以下のスライドでお話させていただきました。
+僭越ながら、今年も KANAZAWA アプリ塾講師の任を受けます。そういうわけで 2016-10-26 に登壇し、以下のスライドでお話させていただきました。
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/a73ej86EWByBbo" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pharaohkj/ss-67661576" title="アプリ制作マスターへの道" target="_blank">アプリ制作マスターへの道</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/pharaohkj">Masayuki KaToH</a></strong> </div>
 
