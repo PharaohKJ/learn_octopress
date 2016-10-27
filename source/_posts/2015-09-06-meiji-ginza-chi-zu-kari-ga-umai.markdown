@@ -6,7 +6,7 @@ comments: true
 categories: food
 ---
 
-{% amazon medium_image B00SSUQSNC %}
+{% amazon medium_image B00VECEQ8A %}
 
 たしかどこかのコンビニの閉店セールで半額で仕入れたものを今日食べたのだが、
 これはうまい！やっぱり高いレトルト食品は美味しいなあ。
