@@ -9,6 +9,17 @@ def zipang_url(v)
   Zipang.to_slug(v).to_url
 end
 
+def categories
+  mds = Dir.glob('source/_posts/*.markdown')
+  categories = []
+  mds.each do |md|
+    data = YAML.load_file(md)['categories']
+    categories += data if data.is_a?(Array)
+    categories += data.split(' ') if data.is_a?(String)
+  end
+  categories.uniq.sort
+end
+
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "user@domain.com"
@@ -122,7 +133,7 @@ task :new_post, :title do |_t, args|
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
     post.puts "comments: true"
     post.puts "published: false"
-    post.puts "categories: "
+    post.puts "categories: #{categories.join(' ')}"
     post.puts "---"
   end
   sh "emacsclient -n #{filename}"
@@ -440,7 +451,7 @@ task publish: [] do
 end
 
 desc 'show hidden lists'
-task show_hidden: []  do
+task show_hidden: [] do
   mds = Dir.glob('source/_posts/*.markdown')
   hiddens = mds.select do |md|
     data = YAML.load_file(md)
@@ -451,13 +462,5 @@ end
 
 desc 'show categories list'
 task show_category: [] do
-  mds = Dir.glob('source/_posts/*.markdown')
-  categories = []
-  mds.each do |md|
-    data = YAML.load_file(md)['categories']
-
-    categories += data if data.is_a?(Array)
-    categories += data.split(' ') if data.is_a?(String)
-  end
-  puts categories.uniq.sort.join("\n")
+  puts categories.join("\n")
 end
