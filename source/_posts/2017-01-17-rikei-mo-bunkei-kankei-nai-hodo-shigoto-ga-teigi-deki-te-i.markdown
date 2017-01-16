@@ -3,7 +3,7 @@ layout: post
 title: "理系も文系も関係ないことを仕事とせざるを得ないのか"
 date: 2017-01-17 06:58:53 +0900
 comments: true
-published: false
+published: true
 categories: think
 ---
 
