@@ -11,9 +11,9 @@ categories: IoT
 
 ロゴは [ぺーた](http://www.pixiv.net/member.php?id=29214) 先生にお願いした。
 
-![Kanazawa-IoT-banner-blue](images/Kanazawa-IoT-banner-blue.png)
+![Kanazawa-IoT-banner-blue](/images/Kanazawa-IoT-banner-blue.png)
 
-![Kanazawa-IoT-banner-green](images/Kanazawa-IoT-banner-green.png)
+![Kanazawa-IoT-banner-green](/images/Kanazawa-IoT-banner-green.png)
 
 
 2月中には募集ページ、ウェブページなどを作成する予定。最新更新状況は [Facebookページ](https://www.facebook.com/groups/1845588432352796/) で案内しているのでまずはそちらをウォッチしていただきたい。
