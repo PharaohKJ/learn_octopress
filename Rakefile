@@ -13,8 +13,10 @@ def categories
   mds = Dir.glob('source/_posts/*.markdown')
   categories = []
   mds.each do |md|
-    data = YAML.load_file(md)['categories']
-    categories += data if data.is_a?(Array)
+    yaml = YAML.load_file(md)
+    next unless yaml
+    data = yaml['categories']
+    categories += Array(data) if data.is_a?(Array)
     categories += data.split(' ') if data.is_a?(String)
   end
   categories.uniq.sort
