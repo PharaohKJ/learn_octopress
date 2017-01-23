@@ -4,7 +4,7 @@ title: "IoT勉強会只今準備中"
 date: 2016-12-26 21:40:26 +0900
 comments: true
 published: true
-categories: 
+categories: IoT
 ---
 
 IoT勉強会を計画している。一応発起人は私だが、みなで練ったコンセプトは以下の3点である。もたついている間にだいぶもう他でもやってる感あるかもしれない。
