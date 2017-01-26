@@ -4,7 +4,7 @@ title: "『Kanazawa.rb Meetup #42』に参加 アジャイルと夢と希望と�
 date: 2016-02-27 18:13:16 +0900
 comments: true
 published: true
-categories: kanazawa.rb
+categories: Kanazawa.rb
 ---
 
 2/20(土)に [Meetup #42 - Kanazawarb](http://kzrb.org/meetup/42/) に参加した。

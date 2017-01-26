@@ -3,7 +3,7 @@ layout: post
 title: "kanazawa.rb #36 に参加"
 date: 2015-08-30 17:25:54 +0900
 comments: true
-categories: kanazawa.rb
+categories: Kanazawa.rb
 ---
 
 2015-08-29 Sat. に kanazawa.rb #36 に参加してきました。

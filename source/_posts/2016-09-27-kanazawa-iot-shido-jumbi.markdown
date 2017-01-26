@@ -4,7 +4,7 @@ title: "Kanazawa IoT 始動準備"
 date: 2016-09-27 01:36:45 +0900
 comments: true
 published: true
-categories: IoT jaws-ug kanazawa.rb
+categories: IoT jaws-ug Kanazawa.rb
 ---
 
 右を見ても左を見てもIoT IoT IoT、、、なので我々もそれで金をがっぽがっぽ稼がないと!

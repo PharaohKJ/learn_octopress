@@ -3,7 +3,7 @@ layout: post
 title: "『kanazawa.rb Meetup #41』に参加"
 date: 2016-01-26 07:50:24 +0900
 comments: true
-categories: kanazawa.rb
+categories: Kanazawa.rb
 ---
 
 だいぶ先日のことですが 2016-01-16 に [kanazawa.rb meetup #41](http://kzrb.org/meetup/41/) に参加しました。

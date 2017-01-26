@@ -3,7 +3,7 @@ layout: post
 title: "kanazawa.rb meetup #38 と Railsハンズオン と Cloud9"
 date: 2015-10-20 12:35:57 +0900
 comments: true
-categories: kanazawa.rb ruby
+categories: Kanazawa.rb ruby
 ---
 
 [Meetup #38 report - Kanazawarb](http://kzrb.org/meetup/38/report.html)

@@ -3,7 +3,7 @@ layout: post
 title: "『kanazawa.rb meetup #40』に参加"
 date: 2015-12-13 21:46:56 +0900
 comments: true
-categories: kanazawa.rb
+categories: Kanazawa.rb
 ---
 
 [kanazawa.rb meetup #40 - kanazawa.rb | Doorkeeper](https://kzrb.doorkeeper.jp/events/35492)

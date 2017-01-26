@@ -4,7 +4,7 @@ title: "資料作りに時間をかけねばならぬ『Kanazawa.rb #44』に参
 date: 2016-04-17 15:50:49 +0900
 comments: true
 published: true
-categories: kanazawa.rb
+categories: Kanazawa.rb
 ---
 
 [Meetup #44 - Kanazawarb](http://kzrb.org/meetup/44/) に参加した。
