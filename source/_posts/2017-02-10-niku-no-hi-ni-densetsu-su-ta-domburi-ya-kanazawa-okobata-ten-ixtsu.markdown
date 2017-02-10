@@ -3,7 +3,7 @@ layout: post
 title: "肉の日に『伝説のすた丼屋金沢大河端店』に行った"
 date: 2017-02-10 16:52:25 +0900
 comments: true
-published: false
+published: true
 categories: food
 ---
 
