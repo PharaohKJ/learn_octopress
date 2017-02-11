@@ -3,7 +3,7 @@ layout: post
 title: "Amazon CloudFront の invalidate cache が高いのでなんとかする"
 date: 2015-08-22 06:58:23 +0900
 comments: true
-categories: aws
+categories: AWS
 ---
 
 ちょっとみたら、 CloudFrontの料金が高くてビビる。(といっても$0.55)だが。

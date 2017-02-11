@@ -4,7 +4,7 @@ title: "リアルもくもく『JAWS-UG金沢 第15回 もくもく会』に参�
 date: 2016-10-24 14:34:49 +0900
 comments: true
 published: true
-categories: jaws-ug aws
+categories: JAWS-UG AWS
 ---
 
 2016-10-22に [JAWS Festa 東海道 2016 ｜ JAWS-UG](https://jaws-ug.jp/es/jaws-festa-toukaido-2016/) に参加できなかったので [JAWS-UG金沢 第15回 もくもく会 - JAWS-UG 金沢 | Doorkeeper](https://jawsug-kanazawa.doorkeeper.jp/events/52936) に参加した。
