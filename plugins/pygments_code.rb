@@ -11,8 +11,11 @@ module HighlightCode
     lang = 'objc' if lang == 'm'
     lang = 'perl' if lang == 'pl'
     lang = 'yaml' if lang == 'yml'
-    tmp = pygments(str, lang).match(/<pre>(.+)<\/pre>/m)
-    str = tmp[1].to_s.gsub(/ *$/, '') unless tmp.nil?
+    pygmented_str = pygments(str, lang)
+    unless pygmented_str.nil?
+      tmp = pygmented_str.match(/<pre>(.+)<\/pre>/m)
+      str = tmp[1].to_s.gsub(/ *$/, '') unless tmp.nil?
+    end
     #strip out divs <div class="highlight">
     tableize_code(str, lang)
   end

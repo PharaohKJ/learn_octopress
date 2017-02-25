@@ -4,7 +4,7 @@ title: "『TDDBC Toyama #1』に参加した - DAY1"
 date: 2017-02-19 01:11:57 +0900
 comments: true
 published: true
-categories: event
+categories: 勉強会
 ---
 
 テスト駆動開発ブートキャンプ（TDDBC）富山に参加した。
