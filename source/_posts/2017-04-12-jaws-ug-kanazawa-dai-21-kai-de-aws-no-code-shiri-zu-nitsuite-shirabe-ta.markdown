@@ -7,7 +7,7 @@ published: true
 categories: AWS JAWS-UG
 ---
 
-[JAWS-UG金沢 第21回 週末勉強会 もくもく & 質問大会 - JAWS-UG 金沢 | Doorkeeper](https://jawsug-kanazawa.doorkeeper.jp/events/58885) に参加した。あやうくソロでもくもく & 自問自答会になるところであったがなんとか3人で実施。質問はなかった。
+2017-04-08 [JAWS-UG金沢 第21回 週末勉強会 もくもく & 質問大会 - JAWS-UG 金沢 | Doorkeeper](https://jawsug-kanazawa.doorkeeper.jp/events/58885) に参加した。あやうくソロでもくもく & 自問自答会になるところであったがなんとか3人で実施。質問はなかった。
 
 ## 無料でプライベートリポジトリ CodeCommit
 
@@ -60,6 +60,8 @@ AWS上のVMサーバ、つまりEC2上に都合よくデプロイするエージ
 AWS内で全部完結するならば、AWS上にJenkinsインスタンスを持つよりこっちでいろいろ処理したほうが管理すべきものが減るのかもしれない。やることを絞れば覚える手数が減って手軽に導入できるかな？
 
 まーいま『Jenkins職人問題』がでちゃうほど、Jenkinsがなんでもできるうえに設定が煩雑、覚えること多いってなってるので、AWS CLIでちゃんと操作できてこの設定をコード化できればバッチリだろうなあ。
+
+さて、このブログはいま、GitHub + 自前Jenkins + AWS S3 + Cloudfrontなのだが、そこをCodeシリーズに置き換えていくことが目的だったんだが、ここまで調べればなんとかなりそう。
 
 
 ## 懇親会
