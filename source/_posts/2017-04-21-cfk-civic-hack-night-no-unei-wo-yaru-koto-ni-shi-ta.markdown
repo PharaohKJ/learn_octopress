@@ -17,9 +17,9 @@ categories: civichack
 - 議論の進め方などの場数をこなしたい
 - あらゆる社会的ジレンマを知りたい
 - 違う視点からみた世界というのを生の声で知る機会が欲しい
-- 傲慢な言い方で恐縮だが、子どもからとは言わず、大人にもICT活用の力を底上げしたい
+- 傲慢な言い方で恐縮だが、子どもからとは言わず、大人からもICT活用の力を底上げしたい
 - そしてファランクスウェアの仕事に活かしたい
 
 こんなところかな。
 
-毎月やることは [Issues · codeforkanazawa-org/chn](https://github.com/codeforkanazawa-org/chn/issues) で管理して進めていくつもりだ。
+毎月やることは [Issues · codeforkanazawa-org/chn](https://github.com/codeforkanazawa-org/chn/issues) で管理して進めていくつもりだ。ご協力いただける方はぜひご連絡を。
