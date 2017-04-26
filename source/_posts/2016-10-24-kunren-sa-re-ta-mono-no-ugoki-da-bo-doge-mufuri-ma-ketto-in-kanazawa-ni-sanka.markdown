@@ -4,7 +4,7 @@ title: "訓練された兵士の動きだ! 『ボードゲームフリーマー�
 date: 2016-10-24 10:48:24 +0900
 comments: true
 published: true
-categories: boardgame
+categories: Boardgame
 ---
 
 [【告知】ボードゲームフリーマーケット in 金澤のお知らせ - clockwise direction](http://mmysk.hatenablog.com/entry/2016/10/23/170000)

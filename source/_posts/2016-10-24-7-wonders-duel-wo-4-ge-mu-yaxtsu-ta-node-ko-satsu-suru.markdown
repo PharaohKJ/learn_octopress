@@ -4,7 +4,7 @@ title: "『7 Wonders: Duel』を4ゲームやったので考察する"
 date: 2016-10-24 15:32:03 +0900
 comments: true
 published: true
-categories: boardgame
+categories: Boardgame
 ---
 
 2016-10-23、友人と『7 Wonders: Duel』を2ゲームプレイした。

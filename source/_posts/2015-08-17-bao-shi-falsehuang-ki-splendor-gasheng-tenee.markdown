@@ -3,7 +3,7 @@ layout: post
 title: "宝石の煌き(Splendor)が勝てねぇ"
 date: 2015-08-17 20:54:57 +0900
 comments: true
-categories: boardgame
+categories: Boardgame
 ---
 
 日曜日(2015-08-16)、ボドゲ会で「街コロ」「宝石の煌き」「ごいた」「俺のケツをなめろ」をやった。

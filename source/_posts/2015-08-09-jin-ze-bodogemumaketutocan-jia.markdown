@@ -3,7 +3,7 @@ layout: post
 title: "金沢ボードゲームマーケット参加"
 date: 2015-08-09 16:33:00 +0900
 comments: true
-categories: boardgame
+categories: Boardgame
 ---
 
 参加といってもぐるっとまわってきただけだったが、参加。
