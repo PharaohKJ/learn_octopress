@@ -15,14 +15,14 @@ categories: food
 
 が肉屋さんもやっていてそこのお肉をいただいた。これは本気で焼かねばなるまい。
 
-ステーキを焼くというのは
+ステーキを焼くというのは以下がポイントになるはずだ。
 
 - 表面は香ばしく
-- しかし、中は70度程度を保てる
+- しかし、中は70度程度を保つ
+- 高温にしない理由は肉汁が肉からでてしまうため
+- 焼けてもすぐ食べず、肉汁が肉に戻るまで少し休ませる
 
-ということが大事なはずなので、分厚い鉄で焼くのがいいだろう！　表面をガッと焼いたらあとは予熱であたためるという作戦だ。
-
-愛用のスキレットはこれ。蓋も大事なので買っておくこと。
+これを達成するには直火で網焼きするのはとても難しい。熱を保てる分厚い鉄で焼くのがいいだろう！　表面をガッと焼いたらあとは予熱であたためるという作戦だ。そういうわけでスキレット焼きを採用した。愛用のスキレットはこれ。蓋も大事なので買っておくこと。
 
 
 <a href="https://www.amazon.co.jp/gp/product/B016ZTLQES/ref=as_li_ss_il?ie=UTF8&th=1&linkCode=li3&tag=pharaohkj-22&linkId=bfe8e43b28d2676c81aab37868b56ab8" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B016ZTLQES&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=pharaohkj-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=pharaohkj-22&l=li3&o=9&a=B016ZTLQES" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> <a href="https://www.amazon.co.jp/gp/product/B017CVCJW6/ref=as_li_ss_il?ie=UTF8&th=1&linkCode=li3&tag=pharaohkj-22&linkId=3e01c3733b76897b71ce64beb07e9196" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B017CVCJW6&Format=_SL250_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=pharaohkj-22" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=pharaohkj-22&l=li3&o=9&a=B017CVCJW6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
