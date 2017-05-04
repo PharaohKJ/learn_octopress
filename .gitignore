@@ -14,3 +14,4 @@ node_modules
 Gemfile.lock
 _amazon.yml
 .amazon-cache
+flycheck_*
