@@ -42,7 +42,7 @@
 //$pre-border: darken($base02, 5);
 //$pre-color: $base1;
 body {
-    p {
+    div.entry-content p{
         text-indent: 1em;
     }
 }
