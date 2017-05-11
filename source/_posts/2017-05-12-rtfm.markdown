@@ -1,0 +1,23 @@
+---
+layout: post
+title: "ハザード情報が材料として提供されるべきではないか"
+date: 2017-05-12 07:34:44 +0900
+comments: true
+published: true
+categories: civichack
+---
+
+2017-05-11(木) Civic Hack Night に参加した。
+
+[Code for Kanazawa Civic Hack Night Vol.21 - connpass](https://cfk.connpass.com/event/56333/)
+
+運営にあたってのスライドは以下。
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/yofNMVNxet314P" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/pharaohkj/civic-hack-night" title="俺 と 今年度 Civic Hack Night 運営" target="_blank">俺 と 今年度 Civic Hack Night 運営</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/pharaohkj">Masayuki KaToH</a></strong> </div>
+
+あとNHKさんの取材に応じた。内容は「どうして不審者情報アプリを作ったのか」だったのだが、素直に申せば「いや、それが一番盛り上がっていたから…」でちょっと答えにくかった。加えて「現状の警察やPTA、学校発表とどう違うのか」と問われたのだが「速報性以外は私は実際運用に携わっていないのでよくわからない。ハックできる余地はあるのではないか」というようなことを答えたつもり。
+
+上級者卓で議論されたことは[Ha4go](https://kanazawa.ha4go.net/) にまとめておく。市民のハザード（はしか・クマ・イノシシ・不審者）などの情報は警察に集められているようだがそれを自由に取得させてほしい、と。いろいろ慮っての運用や見せ方などしているのであろうがそれはデータのビューの方法であって、我々としては材料としてオープンデータで提供されるべきだ。という議論になった。
+
+次回は2017-06-08(木)開催である。いっしょに作りましょう。ぜひご参加を。
+
