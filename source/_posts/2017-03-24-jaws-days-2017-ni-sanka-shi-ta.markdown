@@ -4,7 +4,7 @@ title: "災害支援時における行政と民間の関係はどうあるべき
 date: 2017-03-24 08:45:27 +0900
 comments: true
 published: true
-categories: AWS jaws-ug
+categories: AWS JAWS-UG
 ---
 
 [JAWS DAYS 2017 | JAWS-UG主催の最大のイベント「JAWS DAYS 2017」は「Link Up - JAWS-UGで新しい世界とつながる一日」をテーマに2017年3/11(土)にTOC五反田メッセ(東京)にて開催](http://jawsdays2017.jaws-ug.jp/)
