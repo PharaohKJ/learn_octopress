@@ -10,7 +10,7 @@ def zipang_url(v)
 end
 
 def categories
-  mds = Dir.glob('source/_posts/*.markdown')
+  mds = Dir.glob('source/_posts/*.markdown') + Dir.glob('source/_stash/*.markdown')
   categories = []
   mds.each do |md|
     yaml = YAML.load_file(md)
@@ -123,6 +123,7 @@ task :new_post, :title do |_t, args|
   end
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." unless File.directory?(source_dir)
   mkdir_p "#{source_dir}/#{posts_dir}"
+  Rake::Task[:isolate].execute
   filename = "#{source_dir}/#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{zipang_url(title)}.#{new_post_ext}"
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
@@ -187,7 +188,7 @@ task :isolate, :filename do |_t, args|
   stash_dir = "#{source_dir}/#{stash_dir}"
   FileUtils.mkdir(stash_dir) unless File.exist?(stash_dir)
   Dir.glob("#{source_dir}/#{posts_dir}/*.*") do |post|
-    FileUtils.mv post, stash_dir unless post.include?(args.filename)
+    FileUtils.mv post, stash_dir if args.filename.nil? || !post.include?(args.filename)
   end
 end
 
@@ -445,8 +446,9 @@ task s3: [] do
   ok_failed system("s3cmd sync --no-mime-magic --acl-public --reduced-redundancy public/* s3://#{s3_bucket}/")
 end
 
-desc "commit this"
+desc 'commit this'
 task publish: [] do
+  Rake::Task[:integrate].execute
   sh 'git add ./source/_posts/*'
   sh "git commit -m 'wrote blog.'"
   sh 'git push origin master'

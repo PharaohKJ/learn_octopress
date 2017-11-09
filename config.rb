@@ -26,6 +26,6 @@ line_comments = false
 # output_style = 'debug' # :compressed
 output_style = :compressed
 # output_style = :debug
-# sourcemap = true
+sourcemap = false
 
 amazon_cache = true
