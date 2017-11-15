@@ -4,7 +4,7 @@ title: "Mashup Awardsにアイデアだけ参加して予選敗退した"
 date: 2017-11-15 17:59:42 +0900
 comments: true
 published: true
-categories: .NET AWS Boardgame C# Dominion GameJam Hackathon Hulu IoT JAWS-UG JavaScript Kanazawa.rb Qiita RaspberryPi Ruby UDC VR WiLL book civichack docker emacs event food iOS impression kindle life movie politics qiita think udc unity work youtube さくらVPS ポモドーロ・テクニック 偏頭痛 勉強会 収支 戦国大戦 燻製 自宅サーバ 読了
+categories: Hackathon
 ---
 
 2017-10-21（土）、『KANAZAWAオープンイノベーションハッカソンMashup Awards 2017 金沢予選』に参加した。
@@ -46,6 +46,4 @@ categories: .NET AWS Boardgame C# Dominion GameJam Hackathon Hulu IoT JAWS-UG Ja
 結果としてペッパー君と会話=独り言しているとLINEのグループチャットに感情分析が投稿されたり腹減り度が投稿されたりするので、そのグループチャット参加者は「メシに誘い出そう！」とか「今は期限悪いから話かけないほうがいいな」とか判断できて業務を円滑に進むことができる。
 
 というものになった。動いてるところ動画とプレゼンシートをLINEでもらって確認したが悪くなった。が予選敗退してしまった。
-
-
 
